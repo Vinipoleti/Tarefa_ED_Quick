@@ -53,9 +53,9 @@ public class Principal_Ex_6 {
 		}
 		
 		System.out.println(" ");
-		System.out.println("Tempo BS: " + TempoBS);
-		System.out.println("Tempo MS: " + TempoMS);
-		System.out.println("Tempo QS: " + TempoQS);
+		System.out.println("Tempo BS: " + TempoBS + "s");
+		System.out.println("Tempo MS: " + TempoMS + "s");
+		System.out.println("Tempo QS: " + TempoQS + "s");
 	}
 
 }
